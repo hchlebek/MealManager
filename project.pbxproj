@@ -20,6 +20,7 @@
 		3F13723D1CC0A979004A57FC /* DiscoverRecipesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F13723C1CC0A979004A57FC /* DiscoverRecipesVC.swift */; settings = {ASSET_TAGS = (); }; };
 		3F13723F1CC0A9D2004A57FC /* ShoppingLIstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F13723E1CC0A9D2004A57FC /* ShoppingLIstVC.swift */; settings = {ASSET_TAGS = (); }; };
 		3F1372411CC53FE8004A57FC /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1372401CC53FE8004A57FC /* Recipe.swift */; settings = {ASSET_TAGS = (); }; };
+		3F4180391CC7E5AF001B3AEE /* DayOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4180381CC7E5AF001B3AEE /* DayOptions.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		3F13723C1CC0A979004A57FC /* DiscoverRecipesVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscoverRecipesVC.swift; sourceTree = "<group>"; };
 		3F13723E1CC0A9D2004A57FC /* ShoppingLIstVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShoppingLIstVC.swift; sourceTree = "<group>"; };
 		3F1372401CC53FE8004A57FC /* Recipe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
+		3F4180381CC7E5AF001B3AEE /* DayOptions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DayOptions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				3F1372061CC0A11D004A57FC /* AppDelegate.swift */,
 				3F1372081CC0A11D004A57FC /* ViewController.swift */,
 				3F13720A1CC0A11D004A57FC /* Main.storyboard */,
+				3F4180381CC7E5AF001B3AEE /* DayOptions.swift */,
 				3F13723E1CC0A9D2004A57FC /* ShoppingLIstVC.swift */,
 				3F13723C1CC0A979004A57FC /* DiscoverRecipesVC.swift */,
 				3F13723A1CC0A8DC004A57FC /* MyRecipesVC.swift */,
@@ -282,6 +285,7 @@
 				3F13723D1CC0A979004A57FC /* DiscoverRecipesVC.swift in Sources */,
 				3F1372071CC0A11D004A57FC /* AppDelegate.swift in Sources */,
 				3F1372391CC0A44F004A57FC /* BackTableVC.swift in Sources */,
+				3F4180391CC7E5AF001B3AEE /* DayOptions.swift in Sources */,
 				3F1372371CC0A1F1004A57FC /* SWRevealViewController.m in Sources */,
 				3F13723B1CC0A8DC004A57FC /* MyRecipesVC.swift in Sources */,
 				3F13723F1CC0A9D2004A57FC /* ShoppingLIstVC.swift in Sources */,
